@@ -242,56 +242,56 @@ p.min_padding {margin: 2px 0;}
 }
 
 .unread {
-	background: url('https://awesome-hd.net/static/styles/proton/images/unread.gif') no-repeat center center;
+	background: url('https://awesome-hd.me/static/styles/proton/images/unread.gif') no-repeat center center;
 }
 .read {
-	background: url('https://awesome-hd.net/static/styles/proton/images/read.gif') no-repeat center center;
+	background: url('https://awesome-hd.me/static/styles/proton/images/read.gif') no-repeat center center;
 	width: 35px;
 }
 
 .cats_movies {
-	background: url('https://awesome-hd.net/static/styles/proton/images/movies2.png') no-repeat center center;
+	background: url('https://awesome-hd.me/static/styles/proton/images/movies2.png') no-repeat center center;
 	width: 50px;
 	height: 50px;
 }
 .cats_tvshows {
-	background: url('https://awesome-hd.net/static/styles/proton/images/tv2.png') no-repeat center center;
+	background: url('https://awesome-hd.me/static/styles/proton/images/tv2.png') no-repeat center center;
 	width: 50px;
 	height: 50px;
 }
 .show_torrents {
-	background: url('https://awesome-hd.net/static/styles/proton/images/what_show.gif') no-repeat center center;
+	background: url('https://awesome-hd.me/static/styles/proton/images/what_show.gif') no-repeat center center;
 }
 
 .last_read {
-	background: url("https://awesome-hd.net/static/styles/proton/images/go_last_read.png") no-repeat center center;
+	background: url("https://awesome-hd.me/static/styles/proton/images/go_last_read.png") no-repeat center center;
 	width: 15px;
 	height: 15px;
 	padding-left: 5px;
 }
 .unread_sticky {
 	width: 35px;
-	background: url("https://awesome-hd.net/static/styles/proton/images/sticky_unread.gif") no-repeat center center;
+	background: url("https://awesome-hd.me/static/styles/proton/images/sticky_unread.gif") no-repeat center center;
 }
 .unread_locked_sticky {
 	width: 35px;
-	background: url("https://awesome-hd.net/static/styles/proton/images/locked_sticky_unread.gif") no-repeat center center;
+	background: url("https://awesome-hd.me/static/styles/proton/images/locked_sticky_unread.gif") no-repeat center center;
 }
 .read_locked_sticky {
 	width: 35px;
-	background: url("https://awesome-hd.net/static/styles/proton/images/locked_sticky_read.gif") no-repeat center center;
+	background: url("https://awesome-hd.me/static/styles/proton/images/locked_sticky_read.gif") no-repeat center center;
 }
 .unread_locked {
 	width: 35px;
-	background: url("https://awesome-hd.net/static/styles/proton/images/locked_unread.gif") no-repeat center center;
+	background: url("https://awesome-hd.me/static/styles/proton/images/locked_unread.gif") no-repeat center center;
 }
 .read_locked {
 	width: 35px;
-	background: url("https://awesome-hd.net/static/styles/proton/images/locked_read.gif") no-repeat center center;
+	background: url("https://awesome-hd.me/static/styles/proton/images/locked_read.gif") no-repeat center center;
 }
 .read_sticky {
 	width: 35px;
-	background: url("https://awesome-hd.net/static/styles/proton/images/sticky_read.gif") no-repeat center center;
+	background: url("https://awesome-hd.me/static/styles/proton/images/sticky_read.gif") no-repeat center center;
 }
 .last_topic {
 	padding-left: 5px;
