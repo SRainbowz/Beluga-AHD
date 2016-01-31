@@ -1389,6 +1389,7 @@ ul.poll li.graph {
 
 .torrent_table tbody > .pad, .torrent_table tbody .pad > td {
     padding: 0px;
+    max-width: 10px;
 }
 
 .colhead .sign,.colhead_dark .sign {
