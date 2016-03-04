@@ -2660,3 +2660,10 @@ form tr {
 #wiki .sidebar ul ul {
     margin: 0 0 0 10px;
 }
+
+#content table td {
+    padding: 5px;
+    border-top: 1px solid #e6e6e6;
+    max-wdith: 675px
+    word-wrap: break-word;
+}
