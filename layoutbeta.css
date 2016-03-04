@@ -210,8 +210,7 @@ p.min_padding {margin: 2px 0;}
 
 .sidebar {
     float: right;
-    width: 252px;
-    height: 100%;
+    width: 250px;
 }
 
 .sidebar .head {
@@ -864,10 +863,6 @@ ul.potato-menu ul.potato-menu-group a {
     width: 12em;
     height: 1em;
     float: left;
-}
-
-.main_column table{
-    margin-top:20px;
 }
 
 /* Posting Toolbars and Surround */
