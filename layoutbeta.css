@@ -2663,6 +2663,5 @@ form tr {
 
 #content table td {
     padding: 5px;
-    max-width: 675px;
     word-wrap: break-word;
 }
