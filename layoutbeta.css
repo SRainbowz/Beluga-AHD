@@ -2663,7 +2663,6 @@ form tr {
 
 #content table td {
     padding: 5px;
-    border-top: 1px solid #e6e6e6;
-    max-wdith: 675px
+    max-wdith: 675px;
     word-wrap: break-word;
 }
