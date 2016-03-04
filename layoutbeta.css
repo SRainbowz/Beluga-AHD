@@ -2648,3 +2648,15 @@ form tr {
 #tiptip_arrow,#tiptip_arrow_inner {
     border: none !important;
 }
+#wiki .sidebar ul {
+    padding: 0;
+}
+
+.sidebar ul {
+    list-style-type: none;
+    margin: 0;
+}
+
+#wiki .sibar ul ul {
+    margin: 0 0 0 10px;
+}
